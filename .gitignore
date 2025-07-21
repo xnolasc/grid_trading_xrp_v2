@@ -1,0 +1,10 @@
+# Ignorar archivos sensibles
+config.json
+registro_sesiones.json
+errores_bot.log
+operaciones_grid.csv
+grafico_balance.png
+
+# Ignorar archivos de Python cache
+__pycache__/
+*.pyc
