@@ -34,7 +34,7 @@ pip install python-binance numpy matplotlib requests
 git clone https://github.com/xnolasc/grid_trading_xrp_v2.git
 cd grid_trading_xrp_v2
 
-Copia y configura config.json usando la plantilla:
+Modifcar el JSON con tus APIKEYS
 {
     "API_KEY": "TU_API_KEY_DE_BINANCE_TESTNET",
     "API_SECRET": "TU_API_SECRET_DE_BINANCE_TESTNET",
